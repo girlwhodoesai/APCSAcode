@@ -1,5 +1,6 @@
 public class variables12 {
     public static void main(String[] args) {
+       // program for declaring, assigining and printing the values of the variables.
        // declare variable for name 
        String name= "Tanishka";
        // declare varibale for fav num
