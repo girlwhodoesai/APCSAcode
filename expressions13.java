@@ -1,5 +1,6 @@
 public class expressions13 {
     public static void main(String[] args) {
+        //program to calculate sum and average of 3 values
       //assign values to variables
       int val1 =10;
       int val2= 20;
